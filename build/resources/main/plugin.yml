@@ -1,0 +1,7 @@
+name: SharedEnderChest
+version: '1.0.0'
+main: me.dunescifye.sharedenderchest.SharedEnderChest
+api-version: '1.20'
+depend:
+  - MarriageMaster
+  - OfflineManager
